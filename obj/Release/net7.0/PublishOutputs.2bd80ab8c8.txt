@@ -1,0 +1,17 @@
+D:\CODE\CSHARP\FruitAPI\obj\Release\net7.0\PubTmp\Out\FruitAPI.exe
+D:\CODE\CSHARP\FruitAPI\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\CODE\CSHARP\FruitAPI\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\CODE\CSHARP\FruitAPI\obj\Release\net7.0\PubTmp\Out\FruitAPI.dll
+D:\CODE\CSHARP\FruitAPI\obj\Release\net7.0\PubTmp\Out\FruitAPI.deps.json
+D:\CODE\CSHARP\FruitAPI\obj\Release\net7.0\PubTmp\Out\FruitAPI.runtimeconfig.json
+D:\CODE\CSHARP\FruitAPI\obj\Release\net7.0\PubTmp\Out\FruitAPI.pdb
+D:\CODE\CSHARP\FruitAPI\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\CODE\CSHARP\FruitAPI\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+D:\CODE\CSHARP\FruitAPI\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CODE\CSHARP\FruitAPI\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\CODE\CSHARP\FruitAPI\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CODE\CSHARP\FruitAPI\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\CODE\CSHARP\FruitAPI\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Annotations.dll
+D:\CODE\CSHARP\FruitAPI\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\CODE\CSHARP\FruitAPI\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CODE\CSHARP\FruitAPI\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
