@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d71SiF1QnC0=",
+  "dgSpecHash": "+Q6D5NZ3Efw=",
   "success": true,
-  "projectFilePath": "D:\\CODE\\CSHARP\\FruitAPI\\FruitAPI.csproj",
+  "projectFilePath": "D:\\CODE\\CSHARP\\FruitAPI\\FruitApi\\FruitAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\drang\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\8.0.7\\microsoft.aspnetcore.diagnostics.entityframeworkcore.8.0.7.nupkg.sha512",
     "C:\\Users\\drang\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.7\\microsoft.entityframeworkcore.8.0.7.nupkg.sha512",

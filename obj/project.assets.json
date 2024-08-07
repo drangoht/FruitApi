@@ -1197,11 +1197,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CODE\\CSHARP\\FruitAPI\\FruitAPI.csproj",
+      "projectUniqueName": "D:\\CODE\\CSHARP\\FruitAPI\\FruitApi\\FruitAPI.csproj",
       "projectName": "FruitAPI",
-      "projectPath": "D:\\CODE\\CSHARP\\FruitAPI\\FruitAPI.csproj",
+      "projectPath": "D:\\CODE\\CSHARP\\FruitAPI\\FruitApi\\FruitAPI.csproj",
       "packagesPath": "C:\\Users\\drang\\.nuget\\packages\\",
-      "outputPath": "D:\\CODE\\CSHARP\\FruitAPI\\obj\\",
+      "outputPath": "D:\\CODE\\CSHARP\\FruitAPI\\FruitApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
